@@ -2,7 +2,6 @@ print("What is your name?")
 n = input()
 # print("Do you have a dog? (type True or False)")
 # dog = input()
-#bool is boolean datatype - only stores True/False
 
 
 if len(n) >= 9: # allow length of exactly 9 and greater
